@@ -19,3 +19,48 @@
   font-family: 'Font Awesome 5 Free', 'fa-regular-400';
   font-weight: 400;
 }
+
+.today {
+  font-size: 15%;
+  color: #ADD8E6;
+}
+
+.current {
+  font-size: 25%;
+}
+
+.cur {
+  margin-bottom: 5%;
+}
+
+// .cal {
+//   padding-top: 20%;
+//   background-color: #ade6ce9f;
+// }
+
+.weekdays {
+  height: 10%;
+  text-align: center;
+  margin-top: 2%;
+  font-size: 20%;
+}
+
+.days {
+  height: 150px;
+  text-align: center;
+  font-size: 18%;
+}
+
+.bottom {
+  position: relative;
+}
+
+.bottom-content {
+  position: absolute; 
+  bottom: 0;
+}
+
+.selector-month {
+  background-color: #ade6b19a;
+  //margin-top: 20%;
+}
